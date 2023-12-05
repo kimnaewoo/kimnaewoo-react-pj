@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kimnaewoo-dc-pj/pilot/static/css/main.7261c214.css",
+    "main.js": "/kimnaewoo-dc-pj/pilot/static/js/main.9eeb7513.js",
+    "static/media/NanumGothic.woff": "/kimnaewoo-dc-pj/pilot/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
+    "static/media/01.new-arrival.png": "/kimnaewoo-dc-pj/pilot/static/media/01.new-arrival.0c5dc474520d4899e55e.png",
+    "static/media/02.special.png": "/kimnaewoo-dc-pj/pilot/static/media/02.special.2d9d550ed044abe8b63e.png",
+    "static/media/ban03New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban03New.55007acb1e65cbbfdbb5.jpg",
+    "static/media/ban05New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban05New.e32109d2070151505620.jpg",
+    "static/media/ban04New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban04New.c45c852389a32b213269.jpg",
+    "static/media/ban02New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban02New.caa242ddb2901e927767.jpg",
+    "static/media/UbuntuCondensed-Regular.woff": "/kimnaewoo-dc-pj/pilot/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
+    "static/media/ban06New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban06New.e72f1aa859f90a13bba9.jpg",
+    "static/media/ban01New.jpg": "/kimnaewoo-dc-pj/pilot/static/media/ban01New.fe630ccbb8dd6621df81.jpg",
+    "static/media/mv_btns.png": "/kimnaewoo-dc-pj/pilot/static/media/mv_btns.1eef2593b6cbc9dcfce2.png",
+    "index.html": "/kimnaewoo-dc-pj/pilot/index.html",
+    "main.7261c214.css.map": "/kimnaewoo-dc-pj/pilot/static/css/main.7261c214.css.map",
+    "main.9eeb7513.js.map": "/kimnaewoo-dc-pj/pilot/static/js/main.9eeb7513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7261c214.css",
+    "static/js/main.9eeb7513.js"
+  ]
+}
