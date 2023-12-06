@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8954bfc.css",
-    "main.js": "/static/js/main.f92bd1db.js",
-    "static/media/stadium01.jpg": "/static/media/stadium01.8e70b8a296e1abd6b90e.jpg",
-    "static/media/RubikBubbles-Regular.woff": "/static/media/RubikBubbles-Regular.bb13e84d3aea82438bdd.woff",
-    "static/media/sell_topban.jpg": "/static/media/sell_topban.cfd1d3213e537354f2d0.jpg",
-    "static/media/MonomaniacOne-Regular.woff": "/static/media/MonomaniacOne-Regular.de7054cc976051c2d773.woff",
-    "index.html": "/index.html",
-    "main.f8954bfc.css.map": "/static/css/main.f8954bfc.css.map",
-    "main.f92bd1db.js.map": "/static/js/main.f92bd1db.js.map"
+    "main.css": "/kimnaewoo-react-pj/static/css/main.eb63fcb7.css",
+    "main.js": "/kimnaewoo-react-pj/static/js/main.f92bd1db.js",
+    "static/media/stadium01.jpg": "/kimnaewoo-react-pj/static/media/stadium01.8e70b8a296e1abd6b90e.jpg",
+    "static/media/RubikBubbles-Regular.woff": "/kimnaewoo-react-pj/static/media/RubikBubbles-Regular.bb13e84d3aea82438bdd.woff",
+    "static/media/sell_topban.jpg": "/kimnaewoo-react-pj/static/media/sell_topban.cfd1d3213e537354f2d0.jpg",
+    "static/media/MonomaniacOne-Regular.woff": "/kimnaewoo-react-pj/static/media/MonomaniacOne-Regular.de7054cc976051c2d773.woff",
+    "index.html": "/kimnaewoo-react-pj/index.html",
+    "main.eb63fcb7.css.map": "/kimnaewoo-react-pj/static/css/main.eb63fcb7.css.map",
+    "main.f92bd1db.js.map": "/kimnaewoo-react-pj/static/js/main.f92bd1db.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8954bfc.css",
+    "static/css/main.eb63fcb7.css",
     "static/js/main.f92bd1db.js"
   ]
 }
