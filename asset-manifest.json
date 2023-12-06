@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kimnaewoo-react-pj/coys/static/css/main.7a4e1a73.css",
-    "main.js": "/kimnaewoo-react-pj/coys/static/js/main.56d0fd9f.js",
-    "static/media/stadium01.jpg": "/kimnaewoo-react-pj/coys/static/media/stadium01.8e70b8a296e1abd6b90e.jpg",
-    "static/media/RubikBubbles-Regular.woff": "/kimnaewoo-react-pj/coys/static/media/RubikBubbles-Regular.bb13e84d3aea82438bdd.woff",
-    "static/media/sell_topban.jpg": "/kimnaewoo-react-pj/coys/static/media/sell_topban.cfd1d3213e537354f2d0.jpg",
-    "static/media/MonomaniacOne-Regular.woff": "/kimnaewoo-react-pj/coys/static/media/MonomaniacOne-Regular.de7054cc976051c2d773.woff",
-    "index.html": "/kimnaewoo-react-pj/coys/index.html",
-    "main.7a4e1a73.css.map": "/kimnaewoo-react-pj/coys/static/css/main.7a4e1a73.css.map",
-    "main.56d0fd9f.js.map": "/kimnaewoo-react-pj/coys/static/js/main.56d0fd9f.js.map"
+    "main.css": "/kimnaewoo-react-pj/static/css/main.eb63fcb7.css",
+    "main.js": "/kimnaewoo-react-pj/static/js/main.56d0fd9f.js",
+    "static/media/stadium01.jpg": "/kimnaewoo-react-pj/static/media/stadium01.8e70b8a296e1abd6b90e.jpg",
+    "static/media/RubikBubbles-Regular.woff": "/kimnaewoo-react-pj/static/media/RubikBubbles-Regular.bb13e84d3aea82438bdd.woff",
+    "static/media/sell_topban.jpg": "/kimnaewoo-react-pj/static/media/sell_topban.cfd1d3213e537354f2d0.jpg",
+    "static/media/MonomaniacOne-Regular.woff": "/kimnaewoo-react-pj/static/media/MonomaniacOne-Regular.de7054cc976051c2d773.woff",
+    "index.html": "/kimnaewoo-react-pj/index.html",
+    "main.eb63fcb7.css.map": "/kimnaewoo-react-pj/static/css/main.eb63fcb7.css.map",
+    "main.56d0fd9f.js.map": "/kimnaewoo-react-pj/static/js/main.56d0fd9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a4e1a73.css",
+    "static/css/main.eb63fcb7.css",
     "static/js/main.56d0fd9f.js"
   ]
 }
