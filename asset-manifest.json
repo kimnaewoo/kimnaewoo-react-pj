@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kimnaewoo-react-pj/static/css/main.a1cd9ad7.css",
-    "main.js": "/kimnaewoo-react-pj/static/js/main.97299dba.js",
+    "main.css": "/kimnaewoo-react-pj/static/css/main.c7fabe31.css",
+    "main.js": "/kimnaewoo-react-pj/static/js/main.85973b40.js",
     "static/media/stadium01.jpg": "/kimnaewoo-react-pj/static/media/stadium01.8e70b8a296e1abd6b90e.jpg",
     "static/media/login_ban2.png": "/kimnaewoo-react-pj/static/media/login_ban2.92b42e7bb80e0b0b074d.png",
     "static/media/ban.jpg": "/kimnaewoo-react-pj/static/media/ban.2e29129498f600be0636.jpg",
@@ -9,11 +9,11 @@
     "static/media/sell_topban.jpg": "/kimnaewoo-react-pj/static/media/sell_topban.cfd1d3213e537354f2d0.jpg",
     "static/media/MonomaniacOne-Regular.woff": "/kimnaewoo-react-pj/static/media/MonomaniacOne-Regular.de7054cc976051c2d773.woff",
     "index.html": "/kimnaewoo-react-pj/index.html",
-    "main.a1cd9ad7.css.map": "/kimnaewoo-react-pj/static/css/main.a1cd9ad7.css.map",
-    "main.97299dba.js.map": "/kimnaewoo-react-pj/static/js/main.97299dba.js.map"
+    "main.c7fabe31.css.map": "/kimnaewoo-react-pj/static/css/main.c7fabe31.css.map",
+    "main.85973b40.js.map": "/kimnaewoo-react-pj/static/js/main.85973b40.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1cd9ad7.css",
-    "static/js/main.97299dba.js"
+    "static/css/main.c7fabe31.css",
+    "static/js/main.85973b40.js"
   ]
 }
